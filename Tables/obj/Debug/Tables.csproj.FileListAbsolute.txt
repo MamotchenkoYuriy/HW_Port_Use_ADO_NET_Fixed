@@ -1,0 +1,5 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Tables\bin\Debug\Tables.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Tables\bin\Debug\Tables.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Tables\obj\Debug\Tables.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Tables\obj\Debug\Tables.pdb

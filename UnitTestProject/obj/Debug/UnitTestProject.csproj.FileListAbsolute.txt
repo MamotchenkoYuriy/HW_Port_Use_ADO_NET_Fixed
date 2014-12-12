@@ -1,0 +1,9 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\bin\Debug\Factory.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\bin\Debug\Tables.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\bin\Debug\Factory.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\bin\Debug\Tables.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\UnitTestProject\obj\Debug\UnitTestProject.pdb

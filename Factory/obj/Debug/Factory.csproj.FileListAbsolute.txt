@@ -1,0 +1,14 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\Factory\bin\Debug\Factory.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\Factory\bin\Debug\Factory.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\Factory\obj\Debug\Factory.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\Factory\obj\Debug\Factory.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\Factory\bin\Debug\Tables.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\Factory\bin\Debug\Tables.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Factory\bin\Debug\Factory.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Factory\bin\Debug\Factory.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Factory\bin\Debug\Tables.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Factory\bin\Debug\Tables.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Factory\obj\Debug\Factory.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\Factory\obj\Debug\Factory.pdb

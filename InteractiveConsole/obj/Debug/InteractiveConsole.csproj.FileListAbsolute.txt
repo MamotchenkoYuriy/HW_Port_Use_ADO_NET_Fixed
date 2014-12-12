@@ -1,0 +1,10 @@
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\obj\Debug\InteractiveConsole.csprojResolveAssemblyReference.cache
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\bin\Debug\InteractiveConsole.exe.config
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\bin\Debug\InteractiveConsole.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\bin\Debug\InteractiveConsole.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\obj\Debug\InteractiveConsole.exe
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\obj\Debug\InteractiveConsole.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\bin\Debug\Factory.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\bin\Debug\Tables.dll
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\bin\Debug\Factory.pdb
+C:\Users\Yuriy\Documents\Visual Studio 2013\Projects\NIX\HW_Port\InteractiveConsole\bin\Debug\Tables.pdb
